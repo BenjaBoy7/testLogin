@@ -1,14 +1,5 @@
-# Getting Started with Create React App
+# To see the Website Page Please go to the following link
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
-
-## Available Scripts
-
-In the project directory, you can run:
-
-### `npm start`
-
-Runs the app in the development mode.\
 Open [Website Page](https://64ca864be6fd9d15861b168c--stalwart-monstera-a97114.netlify.app/) to view it in your browser.
 
 The page will reload when you make changes.\
